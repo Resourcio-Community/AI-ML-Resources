@@ -1,5 +1,5 @@
 # AI-ML-Resources
-This is an awesome project about AI/ML resources. ⚡
+This is an awesome repo about AI/ML resources. ⚡
 
 Resources are added frequently! ⚡
 
