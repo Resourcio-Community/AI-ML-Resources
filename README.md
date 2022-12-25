@@ -4,6 +4,9 @@ This is an awesome repo about AI/ML resources. ⚡
 Resources are added frequently! ⚡
 
 Enjoy!
+
+To add, remove or change things on the list:
+[please submit a pull request to the GitHub repository](https://github.com/Resourcio-Community/AI-ML-Resources)
 ---
 ## Table of Contents
 - [Books for AI-ML](#books-for-ai-ml):blue_book:
