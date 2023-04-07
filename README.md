@@ -19,6 +19,8 @@ To add, remove or change things on the list:
 | NAME | Hard Copy Link | PDF Copy Link |
 | ---- | -------------- | ------------- |
 | Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3rd Edition, Kindle Edition by Aurélien Géron | [Click Here](https://amzn.eu/d/hXTz6Ie) | [Click Here](http://powerunit-ju.com/wp-content/uploads/2021/04/Aurelien-Geron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-OReilly-Media-2019.pdf) |
+|Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD | [Click Here](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)| [Click Here](https://course.fast.ai/Resources/book.html) |
+|Dive into Deep Learning|[Click Here](https://www.amazon.in/Dive-into-Learning-Aston-Zhang/dp/1009389432/ref=sr_1_2?crid=2DZDLJQS1CMC8&keywords=Dive+Into+Deep+Learning&qid=1680885026&s=books&sprefix=dive+into+deep+learning%2Cstripbooks%2C241&sr=1-2) | [Click Here](https://d2l.ai)|
 | Deep Learning with TensorFlow and Keras: Build and deploy supervised, unsupervised, deep, and reinforcement learning models, 3rd Edition Kindle Edition by Amita Kapoor | [Click Here](https://amzn.eu/d/47tq9dn) |  |
 | Python Machine Learning By Example: Build intelligent systems using Python, TensorFlow 2, PyTorch, and scikit-learn, 3rd Edition 3rd Edition, Kindle Edition by Yuxi (Hayden) Liu | [Click Here](https://amzn.eu/d/eitYnHh) |  |
 | Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications | [Click Here](https://amzn.eu/d/2J2DRtF) |  |
@@ -43,6 +45,8 @@ To add, remove or change things on the list:
 | Stanford CS229: Machine Learning Full Course | [Click Here](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) |
 | DeepLearningAI | [Click Here](https://www.youtube.com/@Deeplearningai/playlists) |
 | Artificial Intelligence-All in One | [Click Here](https://www.youtube.com/@ArtificialIntelligenceAllinOne/videos) |
+| Practical Deep Learning for Coders 2022 | [Click Here](https://www.youtube.com/watch?v=8SF_h3xF3cE&list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) |
+| Neural Networks: Zero to Hero | [Click Here](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) |
 ---
 ## Websites for AI-ML
 | Website Links |
@@ -51,6 +55,8 @@ To add, remove or change things on the list:
 | https://machinelearningmastery.com/ |
 | https://www.kaggle.com/ |
 | https://towardsdatascience.com/ |
+| https://course.fast.ai |
+| https://d2l.ai |
 ---
 ## Join our Community
 | Social Media | Link |
